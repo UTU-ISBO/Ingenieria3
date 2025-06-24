@@ -8,13 +8,8 @@ Al finalizar la clase, los estudiantes serán capaces de:
 - Configurar flujos de integración continua utilizando GitHub Actions.
 - Automatizar pruebas y despliegue para una aplicación propia (login con 2FA o sistema de gestión de personal).
 
----
 
-## 🕒 Duración: 3 horas (1 hora teórica + 2 horas práctica)
-
----
-
-## 🧠 Parte 1: Teoría (60 min)
+## 🧠 Parte 1: Teoría 
 
 ### 🔧 ¿Qué es DevOps?
 
